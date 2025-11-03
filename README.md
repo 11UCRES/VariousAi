@@ -8,7 +8,7 @@ Welcome to your one-stop toolkit for solving everyday content creation challenge
 
 | ❓ Problem | 💡 Free AI Solution |
 |-----------|---------------------|
-| I don’t like creating faceless videos | [CapCut AI Suite](https://www.capcut.com/ai-suite) |
+| I don’t like creating faceless videos | [CapCut AI Suite](https://www.capcut.com) |
 | I can’t come up with viral post ideas | [AnswerThePublic](https://answerthepublic.com) |
 | I waste hours formatting presentations | [Gamma](https://gamma.app) |
 | I want to create an AI avatar for my brand | [HeyGen](https://www.heygen.com) |
