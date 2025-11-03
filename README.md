@@ -15,7 +15,7 @@ Welcome to your one-stop toolkit for solving everyday content creation challenge
 | I need to turn my image into AI video for free | [Grok Imagine](https://grok.com/imagine) |
 | I need to research topics and get summaries fast | [Perplexity](https://www.perplexity.ai) |
 | My Facebook posts get zero reach | [Sifuyik FB Booster](https://sifuyik.com/fb) |
-| Writing copy that sells is hard | [Claude 4.5 Sonnet](https://www.anthropic.com/index/claude) |
+| Writing copy that sells is hard | [Claude 4.5 Sonnet](https://claude.ai/new) |
 
 > 🆓 All tools are free to use!
 
