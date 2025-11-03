@@ -12,7 +12,7 @@ Welcome to your one-stop toolkit for solving everyday content creation challenge
 | I can’t come up with viral post ideas | [AnswerThePublic](https://answerthepublic.com) |
 | I waste hours formatting presentations | [Gamma](https://gamma.app) |
 | I want to create an AI avatar for my brand | [HeyGen](https://www.heygen.com) |
-| I need to turn my image into AI video for free | [Grok Imagine](https://www.grok.imagine) |
+| I need to turn my image into AI video for free | [Grok Imagine]([https://www.grok.imagine](https://grok.com/imagine)) |
 | I need to research topics and get summaries fast | [Perplexity](https://www.perplexity.ai) |
 | My Facebook posts get zero reach | [Sifuyik FB Booster](https://sifuyik.com/fb) |
 | Writing copy that sells is hard | [Claude 4.5 Sonnet](https://www.anthropic.com/index/claude) |
